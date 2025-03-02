@@ -5,7 +5,7 @@ const PORT = 3000;
 
 // Definir un endpoint GET /hello
 app.get('/hello', (req, res) => {
-    res.send('Hello, World 6!');
+    res.send('Hello, World 77!');
 });
 
 // Iniciar el servidor
